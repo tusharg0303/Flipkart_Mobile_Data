@@ -1,0 +1,1 @@
+create index idx_Selling_Price on flipkart_mobile_tb(Selling_Price);

@@ -1,0 +1,1 @@
+Create view Sales_Summary as select Brand , sum(Selling_Price) as Total from flipkart_mobile_tb group by Brand;
